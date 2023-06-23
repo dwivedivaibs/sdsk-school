@@ -240,6 +240,7 @@ ActiveAdmin.setup do |config|
   #   end
   #
   # If you wanted to add a static menu item to the default menu provided:
+
   #
   #   config.namespace :admin do |admin|
   #     admin.build_menu :default do |menu|
