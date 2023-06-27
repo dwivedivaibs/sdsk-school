@@ -1,5 +1,5 @@
 # Change these
-server '54.235.41.101', port: 22, roles: [:web, :app, :db], primary: true
+server '3.87.173.126', port: 22, roles: [:web, :app, :db], primary: true
 
 set :repo_url,'git@github.com:dwivedivaibs/sdsk-school.git'
 set :application,     'sdsk-school'
