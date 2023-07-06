@@ -446,7 +446,7 @@ fieldset[disabled] .btn-sample.active {
 }
 
 .btn-grad {
-    background-image: linear-gradient(to right, #314755 0%, #3b5397 51%, #3b5397 100%);
+    background-image: linear-gradient(to right, #314755 0%, #664222 51%, #664222 100%);
     float: left;
 }
 
