@@ -75,7 +75,7 @@ position: fixed;
     top: 0;
 }
 .navgation__block.stricky {
-	 background: #664222 ;
+	 background: #26b1a4 ;
 }
 
 /* Navbar Responsive
@@ -726,7 +726,7 @@ header ul li {
 
 
 .main-menu__block ul li a.custom_btn__block {
-    background: #42362c none repeat scroll 0 0;
+    background: #26b1a4 none repeat scroll 0 0;
     border: 0 none;
     color: #fff;
     font-weight: 700;
@@ -737,8 +737,8 @@ header ul li {
 }
 
 .main-menu__block ul {
-    background: #664222 none repeat scroll 0 0;
-    border: 1px solid #664222;
+    background: #26b1a4 none repeat scroll 0 0;
+    border: 1px solid #26b1a4;
 }
 .main-menu__block ul li{
 	/*margin-left: 5px*/;
@@ -764,7 +764,7 @@ header ul li {
     }
 
 .main-menu__block ul li a.custom_btn__block::before {
-    background: #664222 none repeat scroll 0 0;
+    background: #26b1a4 none repeat scroll 0 0;
     content: "";
     height: 100%;
     left: -24px;
@@ -775,7 +775,7 @@ header ul li {
 }
 
 .main-menu__block {
-    background: #664222 none repeat scroll 0 0;
+    background: #26b1a4 none repeat scroll 0 0;
     padding: 5px;
 	width: 100%;
 }
@@ -900,7 +900,7 @@ header ul li {
     width: 100%;
     z-index: 999;
     top: 0;
-	background:#664222;
+	background:#26b1a4;
 	}
 	.navbar-brand{
 		height:auto;
@@ -970,7 +970,7 @@ header ul li {
     }
 	.main-menu__block ul ul li{
 		    background: #07172d;
-			border-bottom: 1px solid #664222;
+			border-bottom: 1px solid #26b1a4;
 	}
 	.main-menu__block ul ul li a{
 		    color: #cac6c6;

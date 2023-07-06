@@ -3,7 +3,7 @@
 ==============analize section===================*/
 
 .single_top__block {
-	 background: #664222;	
+	 background: #26b1a4;	
     color: #ffffff;
     min-height: 180px;
     padding:0 40px 25px;
@@ -18,7 +18,7 @@
 	height:139px;
 	margin:0 auto;
 	display:block;
-	background:#664222;
+	background:#26b1a4;
 	border-radius:50%;
 	position:relative;
 	top:-56px;
@@ -55,7 +55,7 @@
     margin-top: -48px;
 }
 .top_wrap__block > h1 {
-    color: #664222;
+    color: #26b1a4;
 }
 .top_wrap__block > p {
     color: #777777;
@@ -86,7 +86,7 @@ p.blue_text__block {
     text-align: center;
     top: 50%;
     width: 60px;
-	color: #42362c;;
+	color: #26b1a4;;
 }
 .box_content__block h2 span {
     color: #222222;
@@ -105,7 +105,7 @@ p.blue_text__block {
     position: relative;
 }
 .section_title__block.text-center h1::after {
-    background: #664222 none repeat scroll 0 0;
+    background: #26b1a4 none repeat scroll 0 0;
     bottom: -10px;
     content: "";
     height: 3px;
@@ -152,7 +152,7 @@ p.blue_text__block {
 	left:0;
 	height:160px;
 	width:100%;
-	background:#42362c;
+	background:#26b1a4;
 }
 
 /*Plane Section style start here*/
@@ -161,7 +161,7 @@ p.blue_text__block {
     position: relative;
     z-index: 1;
 	overflow:hidden;
-	background-color: #664222;
+	background-color: #26b1a4;
 }
 .block_bg1:after{
   background-image: url(assets/finance-bg1.html);
@@ -195,10 +195,10 @@ p.blue_text__block {
 }
 
 .single_plan__block.blue__block::before {
-    background: #42362c;
+    background: #26b1a4;
 }
 .plan-content-box {
-    background: #664222 none repeat scroll 0 0 !important;
+    background: #26b1a4 none repeat scroll 0 0 !important;
     color: #ffffff;
     padding: 15px 14px;
     width: 100%;
@@ -250,7 +250,7 @@ p.blue_text__block {
 }
 
 .blue__block .plan-content-box {
-    background: #42362c none repeat scroll 0 0;
+    background: #26b1a4 none repeat scroll 0 0;
     color: #333333;
 }
 .single_plan__block.blue__block::after {
@@ -266,7 +266,7 @@ p.blue_text__block {
     position: relative;
 }
 .plan-content-box h3::after {
-    background: #42362c none repeat scroll 0 0;
+    background: #26b1a4 none repeat scroll 0 0;
     bottom: -15px;
     content: "";
     height: 3px;
@@ -346,7 +346,7 @@ p.blue_text__block {
 /*team section*/
 
 .member_S_links__block {
-    background: #664222 none repeat scroll 0 0;
+    background: #26b1a4 none repeat scroll 0 0;
     display: inline-block;
     margin-top: -34px;
     padding: 0 10px;
@@ -360,7 +360,7 @@ p.blue_text__block {
 }
 
 .member_S_links__block a:hover i.fa {
-    color: #42362c;
+    color: #26b1a4;
 }
 
 .author__block {
@@ -417,13 +417,13 @@ p.blue_text__block {
   margin: 0px 15px;
 }
 .single_carousel > p {
-    background: #664222 none repeat scroll 0 0;
+    background: #26b1a4 none repeat scroll 0 0;
     padding: 25px 35px;
     position: relative;
 }
 
 .single_carousel > p::after {
-  background: #664222 none repeat scroll 0 0;
+  background: #26b1a4 none repeat scroll 0 0;
   border-radius: 50%;
   bottom: -23px;
   color: #ffffff;
@@ -485,7 +485,7 @@ p.blue_text__block {
   text-align: center;
 }
 .testimonial_carosule-wrap .owl-nav div:hover {
-    background: #664222 none repeat scroll 0 0;
+    background: #26b1a4 none repeat scroll 0 0;
 }
 /*=======Counter Section Block======*/
 .counter-section__img {
@@ -531,7 +531,7 @@ p.blue_text__block {
     content: '';
     width: 2px;
     height: 64px;
-    background: #42362c;
+    background: #26b1a4;
     position: absolute;
     top: 17px;
     right: 0;
@@ -578,7 +578,7 @@ p.blue_text__block {
 }
 /*Contact section*/
 .bottom-section{
-	    background: #42362c;
+	    background: #26b1a4;
 }
 .contact_block-text{
 	    padding-top: 32px;
@@ -623,8 +623,8 @@ p.blue_text__block {
 	display:block;
 }
 .bottom-section .btn-text{
-	border: 2px solid #664222;
-	background: #664222;
+	border: 2px solid #26b1a4;
+	background: #26b1a4;
 	max-width: 160px;
 	width:100%;
 	margin-top: 10px;
@@ -664,8 +664,8 @@ footer ul li {
     position: relative;
 }
 .top_footer_info__block {
-    background: #42362c none repeat scroll 0 0;
-    color: #664222;
+    background: #26b1a4 none repeat scroll 0 0;
+    color: #26b1a4;
 }
 .single_info__block h4 span {
     display: block;
@@ -693,7 +693,7 @@ footer ul li {
 }
 
 .main_footer__block::before {
-  background: #664222 none repeat scroll 0 0;
+  background: rgba(19, 82, 122, 0.72);
   content: "";
   height: 100%;
   left: 0;
@@ -704,7 +704,7 @@ footer ul li {
 }
 
 .footer_box__block li {
-    border-bottom: 1px solid #664222;
+    border-bottom: 1px solid #26b1a4;
     margin-bottom: 10px;
     padding-bottom: 10px;
     width: 100%;
@@ -766,11 +766,11 @@ footer ul li {
       padding: 0;
     }
 }
-.blue{background-color: #664222;
+.blue{background-color: #26b1a4;
     padding: 10px 10px 10px 10px;
     border-radius: 5px;
     color: white;
     text-decoration:none;
 }
 
-.blue:hover{background-color: #42362c; color: #664222}
+.blue:hover{background-color: #26b1a4; color: #26b1a4}
